@@ -1,5 +1,5 @@
 # PHP7_new_featutes
-This repository deals with all the latest PHP 7 powerful features and depricated features
+This repository deals with all the latest PHP 7 powerful features and depricated features. Feel free to fork and get updated with PHP 7
 
 ## Requirements
 - For Windows install XAMPP, WAMP and so on with package of version minimum 7.0.1 dev environment
@@ -26,6 +26,7 @@ This repository deals with all the latest PHP 7 powerful features and depricated
 17. PHP generators - use of return statements, linking two or more generators
 18. PHP 7 depricated features - old style constructor, ability to call static members in a static way(will soon be depricated), password_has() can now no longer accept salt in third parameters accepts cost only, salt is computer generated, stream_get_meta_data($fp) now accepts 1 parameter no second parameter is required for SSL. It is auto done
 
+Note - Name wise files are created for easy code traversing
 ##Looks
 
 ![Screenshot of PHP 7 image](https://user-images.githubusercontent.com/15896579/45925645-33ebd480-bf37-11e8-973e-c582d5dd1594.jpg?raw=true "Screenshot of PHP 7 image")
