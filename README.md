@@ -3,7 +3,7 @@ This repository deals with all the latest PHP 7 powerful features and depricated
 
 ## Requirements
 - For Windows install XAMPP, WAMP and so on with package of version minimum 7.0.1 dev environment
-- For Linux/Macintos intall PHP Stack of package minimum 7.0.1 dev environment
+- For Linux/Macintosh intall PHP Stack of package minimum 7.0.1 dev environment
 
 ## New Features
 
